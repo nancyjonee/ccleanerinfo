@@ -1,4 +1,4 @@
-How to Reset Your Password for CCleaner Sign In? 🔐
+How to Reset Your Password for CCleaner Account? 🔐
 ============================================
 .
 .
