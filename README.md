@@ -1,1 +1,1 @@
-# ccleaner-password
+#ccleanerinfo
